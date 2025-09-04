@@ -60,3 +60,6 @@ Bar charts showing the number of delayed and cancelled flights by airport name.
 
 
 Line charts illustrating trends in delayed flights and minutes delayed due to different reasons over time.
+
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/2081e2fd-0782-435b-837c-d9003860663e" />
