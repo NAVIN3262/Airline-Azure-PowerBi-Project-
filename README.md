@@ -63,3 +63,23 @@ Line charts illustrating trends in delayed flights and minutes delayed due to di
 
 
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/2081e2fd-0782-435b-837c-d9003860663e" />
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/f3830388-c59e-436d-a2eb-51c6b96bb566" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/d027e72f-c932-4db4-baff-2565034c5a7f" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/3c77f130-b898-4d9e-bb1a-b356bb4fe25a" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/a39dbae2-5bdb-442d-b6d9-2863ac34df47" />
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/58355349-21a5-418c-958e-f5cad2a3a28a" />
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/2bf3eada-ab8c-45cd-9543-0e216d8ed767" />
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/d463f286-0f6e-48f3-a6fb-9f6bcf6bdc1c" />
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/2186a351-acf5-4f1d-aa35-a3bec70bdf22" />
+
+
+
+
+
+
+
